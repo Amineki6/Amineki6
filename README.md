@@ -11,7 +11,7 @@ I am a passionate **AI and Intelligent Systems Engineer** currently pursuing a *
 
 ## 💼 Work Experience  
 ### Research Assistant | Data Lab, Jacobs University *(10/2024 - 03/2025)*  
-- Developed a **scalable microservices-based Movie Recommendation System** using **Docker, Kafka, and Spring Boot**, ensuring efficient communication and real-time data processing.  
+- Developed a **scalable microservices-based Recommender System** using **Docker, Kafka, and Spring Boot**, ensuring efficient communication and real-time data processing.  
 - Implemented a **hybrid recommendation model**, optimizing **Precision@10 and Recall@10** metrics for better personalized recommendations.  
 - Built an advanced **monitoring and evaluation framework** using **Prometheus, Grafana, and Locust** to track system performance, detect anomalies, and trigger dynamic model retraining.  
 
