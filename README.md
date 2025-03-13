@@ -9,12 +9,6 @@ I am a passionate **AI and Intelligent Systems Engineer** currently pursuing a *
 - **Bachelor’s in Robotics and Intelligent Systems** – Jacobs University Bremen *(09/2020 - 08/2023)*  
   - Specialization in Automation and Artificial Intelligence  
 
-## 💼 Work Experience  
-### Research Assistant | Data Lab, Jacobs University *(10/2024 - 03/2025)*  
-- Developed a **scalable microservices-based Recommender System** using **Docker, Kafka, and Spring Boot**, ensuring efficient communication and real-time data processing.  
-- Implemented a **hybrid recommendation model**, optimizing **Precision@10 and Recall@10** metrics for better personalized recommendations.  
-- Built an advanced **monitoring and evaluation framework** using **Prometheus, Grafana, and Locust** to track system performance, detect anomalies, and trigger dynamic model retraining.  
-
 ## 🛠 Projects  
 ### **PillChat Tool** *(01/2024)*  
 - Designed a **conversational AI** tool integrating **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** techniques to process user queries efficiently.  
